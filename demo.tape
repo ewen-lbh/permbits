@@ -1,6 +1,6 @@
 Require permbits
 
-Output demo.mp4
+Output demo.gif
 
 Set FontFamily "Victor Mono"
 Set Shell "fish"
